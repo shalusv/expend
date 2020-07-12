@@ -1,0 +1,20 @@
+.profile-holder{
+    max-width: 80px;
+    height:100%;
+    padding-right: 0;
+    padding-left: 0;
+}
+.profile-holder .nav-link{
+    padding-right: 0;
+    padding-left: 0;
+}
+.logo-holder{
+    max-width: 100px;
+    height:100%;
+    padding-right: 0;
+    padding-left: 0;
+}
+.logo-holder .nav-link{
+    padding-right: 0;
+    padding-left: 0;
+}
